@@ -1,2 +1,0 @@
-# Extended-National-Pre-Marital-Screening-for-Genetic-Cardiovascular-Disorders-in-Saudi-Arabia
-Extending KSA's Premarital Screening Program to include genetic testing for cardiovascular diseases risk. After identifying common CVDs in KSA populations and associated genetic disorders, three CVDs were selected. The extended NPSP now includes additional laboratory tests to detect genetic markers, enabling early identification of individuals.
